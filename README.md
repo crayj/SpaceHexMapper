@@ -24,5 +24,3 @@ It appears that one of each object appears in each local system in additon to wh
 * 1 asteroid cluster
 * 1 wormhole
 * 1 star at the center of the local system
-
-Get rekt normies
